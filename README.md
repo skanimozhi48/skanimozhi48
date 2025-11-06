@@ -1,12 +1,30 @@
 # Hi there 👋, I'm Kanimozhi
 
-A passionate developer from [Your Location]. I love building cool stuff with code!
+A passionate developer from Bangalore. I love building cool stuff with code!
 
 ## 🛠️ Tech Stack
 
-- **Languages**: [Add your languages, e.g., Python, JavaScript]
-- **Frameworks**: [Add frameworks, e.g., React, Django]
-- **Tools**: [Add tools, e.g., Git, Docker]
+Programming Languages
+
+Java • Python • JavaScript
+
+Development & Frameworks
+
+HTML5 • CSS3 • React • Spring Boot • RESTful APIs • JSP • Flask
+
+Databases
+
+MySQL • SQL • NoSQL (MongoDB concepts) • JDBC
+
+Tools & Methodologies
+
+Git • GitHub • VS Code • Eclipse • OOP • SDLC • Agile
+
+Others
+
+Machine Learning: OpenCV, Emotion Detection
+Cloud: AWS (Solutions Architecture)
+Cybersecurity: Secure Coding, Network Security
 
 ## 📊 GitHub Stats
 
@@ -28,10 +46,11 @@ A passionate developer from [Your Location]. I love building cool stuff with cod
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Add your LinkedIn]
-- **Twitter**: [Add your Twitter handle]
-- **Email**: [Your email]
-- **Portfolio**: [Your website]
+- 📧 Email: kanimozhisit25@gmail.com
+📱 Phone: +91 7604953693
+💼 LinkedIn:[ Kanimozhi Senthilkumar](https://www.linkedin.com/in/kanimozhisenthilkumar/) 
+💻 GitHub:[ skanimozhi48](https://github.com/skanimozhi48/)
+🧠 LeetCode:[ kanimozhi_senthilkumar](https://leetcode.com/u/kanimozhisit25/)
 
 Feel free to reach out for collaborations!
 
